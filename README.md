@@ -1,9 +1,11 @@
-<h1 style="margin-bottom:20px;" align="left">Hi 👋! My name is Omkar, A Passionate Web Developer, from India</h1>
+<!-- <h1 style="margin-bottom:20px;" align="left">Hi 👋! My name is Omkar, A Passionate Web Developer, from India</h1> -->
 
-<!-- <div align="center">
-  <img width="100%" height="400px" align="center" src="banner.gif">
+<div align="center">
+  <img width="100%" align="center" src="banner.png">
 </div>
- -->
+
+<div style="margin-bottom:20px;"></div>
+
 # 💫 About Me:
 
 ### I'm a passionate learner and aspiring frontend developer, eager to explore the fascinating realm of web development. I'm constantly seeking opportunities to enhance my skills, create captivating user experiences, and contribute to the dynamic world of technology.
@@ -67,7 +69,3 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=omkar-2882&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=omkar-2882&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
