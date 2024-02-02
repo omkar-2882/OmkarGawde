@@ -69,7 +69,5 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=omkar-2882&limit=5&theme=radical&combine_all_yearly_contributions=true)
-<<<<<<< HEAD
-=======
 
->>>>>>> 8fee7382a3bb0c4f3cb498ed848781928cefc4c3
+[![Image of https://github.com/formidablae/my_github_profile_views_counter](https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/profile/badge.svg)](https://github.com/formidablae/my_github_profile_views_counter)
