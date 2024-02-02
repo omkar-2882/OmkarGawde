@@ -70,4 +70,4 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=omkar-2882&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-[![Image of https://github.com/formidablae/my_github_profile_views_counter](https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/profile/badge.svg)](https://github.com/formidablae/my_github_profile_views_counter)
+![](https://komarev.com/ghpvc/?username=omkar-2882)
