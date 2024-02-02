@@ -1,7 +1,7 @@
 <!-- <h1 style="margin-bottom:20px;" align="left">Hi 👋! My name is Omkar, A Passionate Web Developer, from India</h1> -->
 
 <div align="center">
-  <img width="100%" align="center" src="banner.png">
+  <img width="100%" align="center" src="banner2.png">
 </div>
 
 <div style="margin-bottom:20px;"></div>
